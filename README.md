@@ -5,6 +5,7 @@
 - [ADS - Prática de HTMl e CSS (SAD - HTMl and CSS Practice)](#ads---prática-de-html-e-css-sad---html-and-css-practice)
   - [Conteúdo (Table of Contents)](#conteúdo-table-of-contents)
   - [Português (Portuguese)](#português-portuguese)
+    - [Link de publicação](#link-de-publicação)
     - [Sobre](#sobre)
     - [Instruções para colaboração](#instruções-para-colaboração)
       - [Instalar o VSCode](#instalar-o-vscode)
@@ -13,6 +14,7 @@
       - [Passo a passo](#passo-a-passo)
   - [English (Inglês)](#english-inglês)
     - [About](#about)
+    - [Deploy link](#deploy-link)
     - [How to contribute](#how-to-contribute)
       - [Install VSCode](#install-vscode)
       - [Install Git](#install-git)
@@ -21,6 +23,10 @@
   - [Referências (References)](#referências-references)
 
 ## Português (Portuguese)
+
+### Link de publicação
+
+- [Publicação da página "ADS - Prática de HTMl e CSS"](https://rodrigomarchisilva.github.io/ads-html-and-css-practice/)
 
 ### Sobre
 
@@ -223,6 +229,10 @@ git branch -d rodrigo-marchi/feature/login-page
 ### About
 
 Project in group with systems analysis and development students, to practice basics of web development (HTMl and CSS) and GitHub collab.
+
+### Deploy link
+
+- [Deploy of "SAD - HTMl and CSS Practice"](https://rodrigomarchisilva.github.io/ads-html-and-css-practice/)
 
 ### How to contribute
 
