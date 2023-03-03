@@ -163,16 +163,16 @@ git push
 - Abra um `pull request` com destino na branch `main`
   - Esse processo é feito pelo próprio `GitHub`, então você não precisa fazer nada no terminal, mas tem como fazer pelo terminal ou VSCode também.
 
-  ![GitHub sugerindo o pull request](./images/pull_request1.png)
-  ![Criando o pull request](./images/pull_request2.png)
+  ![GitHub sugerindo o pull request](./images/pull-request1.png)
+  ![Criando o pull request](./images/pull-request2.png)
 
   - Se tudo estiver OK, o seu `pull request` será aceito e a sua feature será `mergeada` com a branch `main` automaticamente.
 
-  ![Pull request pode ser mergeado](./images/pull_request3.png)
+  ![Pull request pode ser mergeado](./images/pull-request3.png)
 
   - Se alguém tiver atualizado o mesmo arquivo que você mexeu na sua branch e atualizou a branch `main`, você terá que resolver os conflitos antes do `merge` ser feito.
 
-  ![Pull request não pode ser mergeado](./images/pull_request4.png)
+  ![Pull request não pode ser mergeado](./images/pull-request4.png)
 
 > **Nota:** **Pull request** é uma solicitação para que o seu código (branch) seja incorporado ao projeto (branch) principal. **Merge** é a incorporação do seu código (branch) ao projeto (branch) principal.
 
@@ -360,16 +360,16 @@ git push
 - Open a `pull request` with destination in the `main` branch
   - This process is done by `GitHub` itself, so you don't need to do anything in the terminal, but you can do it in the terminal or VSCode too.
 
-  ![GitHub suggesting the pull request](images/pull_request1.png)
-  ![Creating the pull request](images/pull_request2.png)
+  ![GitHub suggesting the pull request](images/pull-request1.png)
+  ![Creating the pull request](images/pull-request2.png)
 
   - If everything is OK, your `pull request` will be accepted and your feature will be `merged` with the `main` branch automatically.
 
-  ![Pull request can be merged](images/pull_request3.png)
+  ![Pull request can be merged](images/pull-request3.png)
 
   - If someone has updated the same file that you changed in your branch and updated the `main` branch, you will have to resolve the conflicts before the `merge` is done.
 
-  ![Pull request cannot be merged](images/pull_request4.png)
+  ![Pull request cannot be merged](images/pull-request4.png)
 
 > **Note:** **Pull request** is a request to incorporate your code (branch) into the main project (branch). **Merge** is the incorporation of your code (branch) into the main project (branch).
 
