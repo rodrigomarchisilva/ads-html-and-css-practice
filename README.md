@@ -417,4 +417,4 @@ git branch -d rodrigo-marchi/feature/login-page
 
 ## Referências (References)
 
-![#6 GIT - Merge conflicts | Como resolver os conflitos do jeito mais simples (ATUALIZADO 2022)](https://www.youtube.com/watch?v=-xxhkAPJZPY)
+[#6 GIT - Merge conflicts | Como resolver os conflitos do jeito mais simples (ATUALIZADO 2022)](https://www.youtube.com/watch?v=-xxhkAPJZPY)
