@@ -1,44 +1,44 @@
-# ADS - Prática de HTMl e CSS (SAD - HTMl and CSS Practice)
+# 🏋️‍♀️ ADS - Prática de HTMl e CSS (SAD - HTMl and CSS Practice)
 
-## Conteúdo (Table of Contents)
+## 🔍 Conteúdo (Table of Contents)
 
-- [ADS - Prática de HTMl e CSS (SAD - HTMl and CSS Practice)](#ads---prática-de-html-e-css-sad---html-and-css-practice)
-  - [Conteúdo (Table of Contents)](#conteúdo-table-of-contents)
-  - [Português (Portuguese)](#português-portuguese)
-    - [Link de publicação](#link-de-publicação)
-    - [Sobre](#sobre)
-    - [Instruções para colaboração](#instruções-para-colaboração)
-      - [Instalar o VSCode](#instalar-o-vscode)
-      - [Instalar o git](#instalar-o-git)
-      - [Cadastrar-se no GitHub](#cadastrar-se-no-github)
-      - [Passo a passo](#passo-a-passo)
-  - [English (Inglês)](#english-inglês)
-    - [About](#about)
-    - [Deploy link](#deploy-link)
-    - [How to contribute](#how-to-contribute)
-      - [Install VSCode](#install-vscode)
-      - [Install Git](#install-git)
-      - [Register on GitHub](#register-on-github)
-      - [Step by step](#step-by-step)
-  - [Referências (References)](#referências-references)
+- [🏋️‍♀️ ADS - Prática de HTMl e CSS (SAD - HTMl and CSS Practice)](#️️-ads---prática-de-html-e-css-sad---html-and-css-practice)
+  - [🔍 Conteúdo (Table of Contents)](#-conteúdo-table-of-contents)
+  - [🇧🇷 Português (Portuguese)](#-português-portuguese)
+    - [🚀 Link de publicação](#-link-de-publicação)
+    - [💬 Sobre](#-sobre)
+    - [🤝 Instruções para colaboração](#-instruções-para-colaboração)
+      - [💻 Instalar o VSCode](#-instalar-o-vscode)
+      - [🐙 Instalar o git](#-instalar-o-git)
+      - [👥 Cadastrar-se no GitHub](#-cadastrar-se-no-github)
+      - [👣 Passo a passo](#-passo-a-passo)
+  - [🇺🇸 English (Inglês)](#-english-inglês)
+    - [🚀 Deploy link](#-deploy-link)
+    - [💬 About](#-about)
+    - [🤝 How to contribute](#-how-to-contribute)
+      - [💻 Install VSCode](#-install-vscode)
+      - [🐙 Install Git](#-install-git)
+      - [👥 Register on GitHub](#-register-on-github)
+      - [👣 Step by step](#-step-by-step)
+  - [📚 Referências (References)](#-referências-references)
 
-## Português (Portuguese)
+## 🇧🇷 Português (Portuguese)
 
-### Link de publicação
+### 🚀 Link de publicação
 
 - [Publicação da página "ADS - Prática de HTMl e CSS"](https://rodrigomarchisilva.github.io/ads-html-and-css-practice/)
 
-### Sobre
+### 💬 Sobre
 
 Projeto em grupo com alunos de análise e desenvolvimento de sistemas, para praticar os básicos de desenvolvimento web (HTMl e CSS) e colaboração no GitHub.
 
-### Instruções para colaboração
+### 🤝 Instruções para colaboração
 
-#### Instalar o VSCode
+#### 💻 Instalar o VSCode
 
 - Baixe o VSCode no site oficial: [Link para download do VSCode](https://code.visualstudio.com/)
 
-#### Instalar o git
+#### 🐙 Instalar o git
 
 - Você precisa ter o `git` na sua máquina para que possa contribuir com o projeto.
 - O `git` é um sistema de controle de versão, que permite que você faça alterações no projeto localmente (na sua máquina).
@@ -53,7 +53,7 @@ Projeto em grupo com alunos de análise e desenvolvimento de sistemas, para prat
 
 > **Nota:** Se você estiver usando outro sistema operacional, como Linux ou Mac, basta pesquisar por um tutorial adequado para ele.
 
-#### Cadastrar-se no GitHub
+#### 👥 Cadastrar-se no GitHub
 
 - Você precisa ter uma conta no `GitHub` para que possa contribuir com o projeto.
 - O `GitHub` é uma plataforma de hospedagem de `repositórios`.
@@ -61,7 +61,7 @@ Projeto em grupo com alunos de análise e desenvolvimento de sistemas, para prat
 - Também pode colaborar com projetos de outras pessoas, como é o caso do projeto que estamos trabalhando.
 - Acesse o site oficial do `GitHub` e crie uma conta: [Link para o site oficial do GitHub](https://github.com/)
 
-#### Passo a passo
+#### 👣 Passo a passo
 
 Primeiro tenha em mente que é possível fazer tudo pelo VSCode, que tem um plugin que já vem nele, bem completo para lidar com o `GitHub`, conforme a figura abaixo. Mas passarei os comandos no terminal para que você possa se acostumar com eles.
 
@@ -224,23 +224,23 @@ git branch -d rodrigo-marchi/feature/login-page
 ![Confirmando o merge no GitHub](images/pull-request5.png)
 ![Deletando a branch no GitHub](images/pull-request6.png)
 
-## English (Inglês)
+## 🇺🇸 English (Inglês)
 
-### About
-
-Project in group with systems analysis and development students, to practice basics of web development (HTMl and CSS) and GitHub collab.
-
-### Deploy link
+### 🚀 Deploy link
 
 - [Deploy of "SAD - HTMl and CSS Practice"](https://rodrigomarchisilva.github.io/ads-html-and-css-practice/)
 
-### How to contribute
+### 💬 About
 
-#### Install VSCode
+Project in group with systems analysis and development students, to practice basics of web development (HTMl and CSS) and GitHub collab.
+
+### 🤝 How to contribute
+
+#### 💻 Install VSCode
 
 - Download and install [VSCode](https://code.visualstudio.com/).
 
-#### Install Git
+#### 🐙 Install Git
 
 - You need to have `git` installed on your machine to be able to contribute to the project.
 - `Git` is a version control system, which allows you to make changes to the project locally (on your machine).
@@ -254,7 +254,7 @@ Project in group with systems analysis and development students, to practice bas
 
 > **Note:** If you are using another operating system, such as Linux or Mac, just search for a tutorial appropriate for it.
 
-#### Register on GitHub
+#### 👥 Register on GitHub
 
 - You need to have a `GitHub` account in order to contribute to the project.
 - `GitHub` is a platform for hosting `repositories`.
@@ -262,7 +262,7 @@ Project in group with systems analysis and development students, to practice bas
 - You can also collaborate on other people's projects, as is the case with the project we are working on.
 - Access the official `GitHub` website and create an account: [Link to the official GitHub website](https://github.com/)
 
-#### Step by step
+#### 👣 Step by step
 
 - First have in mind that it is possible to do everything through VSCode, which has a plugin that already comes with it, very complete to deal with `GitHub`, as shown in the figure below. But I will pass the commands on the terminal so that you can get used to them.
 
@@ -425,6 +425,10 @@ git branch -d rodrigo-marchi/feature/login-page
 ![Confirming merge on GitHub](images/pull-request5.png)
 ![Deleting branch on GitHub](images/pull-request6.png)
 
-## Referências (References)
+## 📚 Referências (References)
 
 [#6 GIT - Merge conflicts | Como resolver os conflitos do jeito mais simples (ATUALIZADO 2022)](https://www.youtube.com/watch?v=-xxhkAPJZPY)
+
+---
+
+[🔼 Voltar ao topo (Back to top)](#️️-ads---prática-de-html-e-css-sad---html-and-css-practice)
